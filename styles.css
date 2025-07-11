@@ -30,7 +30,7 @@ ul {
 .header {
   /* Set background image */
   height: 500px;
-  background-image: url(/images/background-img.jpg);
+  background-image: url(./images/background-img.jpg);
   background-size: cover;
   background-position: center;
 
