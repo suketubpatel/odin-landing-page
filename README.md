@@ -3,3 +3,6 @@ This project is the second project of The Odin Project curriculum. It consists o
 At this point of the curriculum, only HTML and CSS has been taught, so this project is meant to be created only with basic HTML and CSS.
 
 credits:
+Image One downloaded: https://unsplash.com/photos/sydney-opera-house-australia-jK9dT34TfuI
+
+Logo downloaded: https://www.vecteezy.com/vector-art/7644522-australia-logo-design-vector-illustration-australia-flag-with-map-shape
